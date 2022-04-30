@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/nextpagesolution/static/css/main.bebb8bcd.css",
+    "main.js": "/nextpagesolution/static/js/main.4fcd7947.js",
+    "index.html": "/nextpagesolution/index.html",
+    "main.bebb8bcd.css.map": "/nextpagesolution/static/css/main.bebb8bcd.css.map",
+    "main.4fcd7947.js.map": "/nextpagesolution/static/js/main.4fcd7947.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bebb8bcd.css",
+    "static/js/main.4fcd7947.js"
+  ]
+}
