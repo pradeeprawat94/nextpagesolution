@@ -1,0 +1,9 @@
+.homeContainer{
+    width: 90%;
+    margin: auto;
+}
+.headingContainer{
+    display: flex;
+    justify-content:space-between;
+    margin-top: 1rem;
+}

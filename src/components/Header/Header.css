@@ -1,0 +1,15 @@
+.header{
+    display: flex;
+    justify-content:flex-end;
+    padding: 1rem 3rem;
+    
+
+}
+.header>p{
+    text-align:flex-end;
+    width: 20%;
+    margin-left: auto;
+    font-size: 1.8rem;
+    font-weight: bold;
+
+}
